@@ -95,7 +95,6 @@ bank-segmentation-analysis/
 ├── images/
 │   └── banking_erd.png        # Entity Relationship Diagram
 ├── README.md                  # This file
-└── INTERVIEW_NOTES.md         # Technical interview preparation guide
 ```
 
 ## 💡 Key Learnings
